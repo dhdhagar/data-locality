@@ -1,3 +1,3 @@
 all:
-	gcc -o hw1 mm.c
+	clang mm.c -o hw1
 
